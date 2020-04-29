@@ -1,16 +1,54 @@
 {
-  "HikingTrails":
-  [
-    {"TrailDifficulty":"Difficult","TrailElevation":"2510 ft","TrailID":1,"TrailImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/burkelake.jpg","TrailLength":"8.0 mi","TrailName":"Old Rag Mountain","TrailTime":"5.5 hrs","TrailWebsite":"https://www.hikingupward.com/snp/oldrag/"},
-    {"TrailDifficulty":"Difficult","TrailElevation":"2450 ft","TrailID":2,"TrailImage":"http://www.protogic.com/images/White_Oak.jpg","TrailLength":"7.9 mi","TrailName":"White Oak Canyon \/ Cedar Run","TrailTime":"5.0 hrs","TrailWebsite":"https://www.hikingupward.com/SNP/WhiteOakCedarRun/"},
-    {"TrailDifficulty":"Strenuous","TrailElevation":"2240 ft","TrailID":3,"TrailImage":"http://www.protogic.com/images/Strickler_Knob.jpg","TrailLength":"9.1 mi","TrailName":"Strickler Knob","TrailTime":"5.0 hrs","TrailWebsite":"https://www.hikingupward.com/GWNF/StricklerKnob/"},
-    {"TrailDifficulty":"Easy","TrailElevation":"1380 ft","TrailID":4,"TrailImage":"http://www.protogic.com/images/Crabtree_Falls.jpg","TrailLength":"4.4 mi","TrailName":"Crabtree Falls","TrailTime":"3.5 hrs","TrailWebsite":"https://www.hikingupward.com/GWNF/CrabtreeFalls/"},
-    {"TrailDifficulty":"Difficult","TrailElevation":"2680 ft","TrailID":5,"TrailImage":"http://www.protogic.com/images/Signal_Knob.jpg","TrailLength":"9.9 mi","TrailName":"Signal Knob","TrailTime":"5.0 hrs","TrailWebsite":"https://www.hikingupward.com/GWNF/SignalKnob/"},
-    {"TrailDifficulty":"Difficult","TrailElevation":"1965 ft","TrailID":6,"TrailImage":"http://www.protogic.com/images/Overall_Run.jpg","TrailLength":"8.5 mi","TrailName":"Overall Run \/ Beecher Ridge","TrailTime":"5.0 hrs","TrailWebsite":"https://www.hikingupward.com/SNP/OverallRunBeecherRidge/"},
-    {"TrailDifficulty":"Moderate","TrailElevation":"1530 ft","TrailID":7,"TrailImage":"http://www.protogic.com/images/Raven_Rocks.jpg","TrailLength":"5.5 mi","TrailName":"Raven Rocks","TrailTime":"4 hrs","TrailWebsite":"https://www.hikingupward.com/OVH/RavenRocks/"},
-    {"TrailDifficulty":"Moderate​","TrailElevation":"1480 ft","TrailID":8,"TrailImage":"http://www.protogic.com/images/Little_Devis.jpg","TrailLength":"4.0 mi","TrailName":"Little Devils Stairs","TrailTime":"4 hrs","TrailWebsite":"https://www.hikingupward.com/SNP/LittleDevilsStairs/"},
-    {"TrailDifficulty":"Easy","TrailElevation":"1035 ft","TrailID":9,"TrailImage":"http://www.protogic.com/images/Big_Schloss.jpg","TrailLength":"4.1 mi","TrailName":"Big Schloss","TrailTime":"5.5 hrs","TrailWebsite":"https://www.hikingupward.com/GWNF/BigSchloss/"},
-    {"TrailDifficulty":"Strenuous","TrailElevation":"3960 ft","TrailID":10,"TrailImage":"http://www.protogic.com/images/Three_Ridges.jpg","TrailLength":"14.4 mi","TrailName":"Three Ridges","TrailTime":"2 Days (Day 1 - 5.0 hrs, Day 2 4.5 hrs)","TrailWebsite":"https://www.hikingupward.com/GWNF/ThreeRidges/"}
+  "DanceMoves": [
+    {
+      "MoveName": "Flares",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/flares.jpg",
+      "MoveLevel": "Difficulty: Medium",
+      "MoveDescription": "This breakdance move difficult to do. It's just like a windmill but with your hands carrying your body.",
+      "MoveVideo": "https://www.youtube.com/watch?v=8w2OAzzwl84"
+    },
+    {
+      "MoveName": "Airflares",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/airflare.jpg",
+      "MoveLevel": "Difficulty: Hard",
+      "MoveDescription": "The hardest move to do. Airflares are flares in the air. You have to throw your body 360 degrees in the air and catch yourself after falling.",
+      "MoveVideo": "https://www.youtube.com/watch?v=1fxOuGQcEsI"
+    },
+    {
+      "MoveName": "Headspins",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/headspins.jpeg",
+      "MoveLevel": "Difficulty: Medium",
+      "MoveDescription": "This breakdance move doesn't require that much strength but, is still difficult to accomplish. Headspins may seem easy once you get the flow of things but it takes time.",
+      "MoveVideo": "https://www.youtube.com/watch?v=PMjkpKNEo4c"
+    },
+    {
+      "MoveName": "Nike Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/nikeFreeze.jpeg",
+      "MoveLevel": "Difficulty: Easy",
+      "MoveDescription": "Freezing in a one hand handstand while making a nike sign with your legs.",
+      "MoveVideo": "https://www.youtube.com/watch?v=ryBS7sEUCl8"
+    },
+    {
+      "MoveName": "Pike Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/pikeFreeze.jpg",
+      "MoveLevel": "Difficulty: Easy",
+      "MoveDescription": "Freezing in a one hand handstand while making a V shape towards your body with your legs. ",
+      "MoveVideo": "https://www.youtube.com/watch?v=iXMI3aDHyvc"
+    },
+    {
+      "MoveName": "Halo Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/haloFreeze.jpg",
+      "MoveLevel": "Difficulty: Easy",
+      "MoveDescription": "Also known as the Hong 10 freeze, Halo freeze is basically a chair freeze with your legs up.",
+      "MoveVideo": "https://www.youtube.com/watch?v=sHY2jClcfGg"
+    },
+    {
+      "MoveName": "Hollowback Freeze",
+      "MoveImage": "https://raw.githubusercontent.com/Oa2505/It315/master/hollowback.jpg",
+      "MoveLevel": "Difficulty: Easy",
+      "MoveDescription": "This freeze diffuculty is medium. Hollowback is when you do a handstand and let your legs fall behind your head.",
+      "MoveVideo": "https://www.youtube.com/watch?v=y0kSfzsbNcg"
+    }
   ],
-  "Status":"OK"
+  "Status": "OK"
 }
